@@ -1,0 +1,2 @@
+The Admin user was assigned AWS's default "AdministratorAccess" policy.
+This provides full access to all AWS services.
