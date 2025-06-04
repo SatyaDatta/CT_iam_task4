@@ -122,6 +122,8 @@ Admin access
 | Can be restricted by IAM permissions                      | ❌ No                         | ✅ Yes                            |
 | Intended for daily use                                    | ❌ Not recommended            | ✅ Yes                            |
 | Best Practice                                             | Use only for sensitive tasks.  | Use for regular admin work        |
+
+
 ![Screenshot 2025-06-04 142508](https://github.com/user-attachments/assets/7f2f1351-56d1-44a2-8585-b3288a53d38a)
 All users - 1 admin, 3 developer , 1 view user
 
