@@ -10,4 +10,4 @@ This provides full access to all AWS service.
 
 ![Screenshot 2025-06-04 142946](https://github.com/user-attachments/assets/f7690976-6dc4-456c-b1cb-9a185a7dcb65)
 ### AdmiinistationAccess Policy
-##### it has 439 access inside it 
+##### it has 439 services inside it 
